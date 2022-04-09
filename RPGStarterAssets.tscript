@@ -1,0 +1,48 @@
+//************************************************
+
+function RPGStarterAssets::onCreate(%this)
+{
+}
+
+
+function RPGStarterAssets::onDestroy(%this)
+{
+}
+
+
+function RPGStarterAssets::initServer(%this)
+{
+}
+
+
+function RPGStarterAssets::onCreateGameServer(%this)
+{
+}
+
+
+function RPGStarterAssets::onDestroyGameServer(%this)
+{
+}
+
+
+function RPGStarterAssets::initClient(%this)
+{
+}
+
+
+function RPGStarterAssets::onCreateClientConnection(%this)
+{
+}
+
+
+function RPGStarterAssets::onDestroyClientConnection(%this)
+{
+}
+
+
+function RPGStarterAssets::populateOptionsMenuCategories(%this)
+{
+   addOptionsMenuCategory("Example Options", "testExampleOptions();");
+}
+
+
