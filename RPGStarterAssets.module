@@ -1,15 +1,11 @@
 <ModuleDefinition
-    canSave="true"
-    canSaveDynamicFields="true"
     ModuleId="RPGStarterAssets"
     VersionId="1"
     Group="Game"
-    scriptFile="RPGStarterAssets"
+    scriptFile="RPGStarterAssets.tscript"
     CreateFunction="onCreate"
     DestroyFunction="onDestroy">
     <DeclaredAssets
-        canSave="true"
-        canSaveDynamicFields="true"
         Extension="asset.taml"
-        Recurse="true" />
+        Recurse="true"/>
 </ModuleDefinition>
