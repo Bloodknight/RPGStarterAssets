@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set3_signB_mat"
+    materialDefinitionName="Set3_signB_mat"
+    imageMap0="@asset=RPGStarterAssets:Set3_SignB_image">
+    <Material
+        Name="Set3_signB_mat"
+        mapTo="Set3_signB_mat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set3_SignB_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set3_BridgeA_shape"
+    fileName="@assetFile=BKS_Set3_BridgeA.fbx"
+    constuctorFileName="@assetFile=BKS_Set3_BridgeA.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set3_bridgeA_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 3 (Village)/Export/Torque40/BKS_Set3_BridgeA.fbx"/>

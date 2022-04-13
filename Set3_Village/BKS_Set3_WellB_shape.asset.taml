@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set3_WellB_shape"
+    fileName="@assetFile=BKS_Set3_WellB.fbx"
+    constuctorFileName="@assetFile=BKS_Set3_WellB.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set3_WellB_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 3 (Village)/Export/Torque40/BKS_Set3_WellB.fbx"/>

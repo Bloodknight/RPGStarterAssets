@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set3_SignAfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set3_SignA_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

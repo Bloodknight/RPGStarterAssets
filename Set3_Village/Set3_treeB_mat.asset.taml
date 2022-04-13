@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set3_treeB_mat"
+    materialDefinitionName="Set3_treeB_mat"
+    imageMap0="@asset=RPGStarterAssets:Set3_TreeB_image">
+    <Material
+        Name="Set3_treeB_mat"
+        mapTo="Set3_treeB_mat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set3_TreeB_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

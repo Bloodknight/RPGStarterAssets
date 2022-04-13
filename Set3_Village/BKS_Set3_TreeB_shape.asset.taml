@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set3_TreeB_shape"
+    fileName="@assetFile=BKS_Set3_TreeB.fbx"
+    constuctorFileName="@assetFile=BKS_Set3_TreeB.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set3_treeB_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 3 (Village)/Export/Torque40/BKS_Set3_TreeB.fbx"/>

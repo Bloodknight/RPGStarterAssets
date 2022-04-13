@@ -1,0 +1,17 @@
+<MaterialAsset
+    AssetName="Set3_signA_mat"
+    materialDefinitionName="Set3_signA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set3_SignA_image">
+    <Material
+        Name="Set3_signA_mat"
+        mapTo="Set3_signA_mat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set3_SignA_image"/>
+        </Material.Stages>
+        <Material.EffectColors>
+            <EffectColor
+                EffectColor="1 1 1 1"/>
+        </Material.EffectColors>
+    </Material>
+</MaterialAsset>

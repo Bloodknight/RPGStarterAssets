@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set3_RockBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set3_RockB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

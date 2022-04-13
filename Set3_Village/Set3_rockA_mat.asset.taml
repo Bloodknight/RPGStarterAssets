@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set3_rockA_mat"
+    materialDefinitionName="Set3_rockA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set3_RockA_image">
+    <Material
+        Name="Set3_rockA_mat"
+        mapTo="Set3_rockA_mat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set3_RockA_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

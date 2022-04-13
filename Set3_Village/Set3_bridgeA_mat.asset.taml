@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set3_bridgeA_mat"
+    materialDefinitionName="Set3_bridgeA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set3_BridgeA_image">
+    <Material
+        Name="Set3_bridgeA_mat"
+        mapTo="Set3_bridgeA_mat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set3_BridgeA_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

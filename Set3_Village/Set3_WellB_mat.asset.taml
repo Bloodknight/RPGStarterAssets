@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set3_WellB_mat"
+    materialDefinitionName="Set3_WellB_mat"
+    imageMap0="@asset=RPGStarterAssets:Set3_WellB_image">
+    <Material
+        Name="Set3_WellB_mat"
+        mapTo="Set3_WellB_mat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set3_WellB_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

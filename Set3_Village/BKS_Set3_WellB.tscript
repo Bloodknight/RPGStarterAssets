@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set3_WellBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set3_WellB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set3_coniferA_mat"
+    materialDefinitionName="Set3_coniferA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set3_ConiferA_image">
+    <Material
+        Name="Set3_coniferA_mat"
+        mapTo="Set3_coniferA_mat">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set3_ConiferA_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>
