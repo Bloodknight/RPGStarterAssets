@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set2_CrystalAfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set2_CrystalA_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

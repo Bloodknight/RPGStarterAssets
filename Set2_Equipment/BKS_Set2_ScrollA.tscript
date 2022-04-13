@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set2_ScrollAfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set2_ScrollA_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

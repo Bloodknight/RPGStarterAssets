@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set2_scrollA_mat"
+    materialDefinitionName="Set2_scrollA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set2_scrollA_image">
+    <Material
+        Name="Set2_scrollA_mat"
+        mapTo="Set2_scrollA">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set2_scrollA_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

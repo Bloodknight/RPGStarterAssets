@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set2_keyB_mat"
+    materialDefinitionName="Set2_keyB_mat"
+    imageMap0="@asset=RPGStarterAssets:Set2_keyB_image">
+    <Material
+        Name="Set2_keyB_mat"
+        mapTo="Set2_keyB">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set2_keyB_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

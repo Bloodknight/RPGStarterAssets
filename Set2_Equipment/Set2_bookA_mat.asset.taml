@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set2_bookA_mat"
+    materialDefinitionName="Set2_bookA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set2_bookA_image">
+    <Material
+        Name="Set2_bookA_mat"
+        mapTo="Set2_bookA">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set2_bookA_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

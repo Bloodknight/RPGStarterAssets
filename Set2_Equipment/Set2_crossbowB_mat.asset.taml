@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set2_crossbowB_mat"
+    materialDefinitionName="Set2_crossbowB_mat"
+    imageMap0="@asset=RPGStarterAssets:Set2_crossbowB_image">
+    <Material
+        Name="Set2_crossbowB_mat"
+        mapTo="Set2_crossbowB">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set2_crossbowB_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set2_KeyB_shape"
+    fileName="@assetFile=BKS_Set2_KeyB.fbx"
+    constuctorFileName="@assetFile=BKS_Set2_KeyB.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set2_keyB_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 2/FBXs/BKS_Set2_KeyB.fbx"/>

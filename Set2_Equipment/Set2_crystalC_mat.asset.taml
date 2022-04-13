@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set2_crystalC_mat"
+    materialDefinitionName="Set2_crystalC_mat"
+    imageMap0="@asset=RPGStarterAssets:Set2_crystalC_image">
+    <Material
+        Name="Set2_crystalC_mat"
+        mapTo="Set2_crystalC">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set2_crystalC_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set2_CrossbowBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set2_CrossbowB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

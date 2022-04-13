@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set2_KeyBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set2_KeyB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

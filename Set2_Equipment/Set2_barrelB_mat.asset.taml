@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set2_barrelB_mat"
+    materialDefinitionName="Set2_barrelB_mat"
+    imageMap0="@asset=RPGStarterAssets:Set2_barrelB_image">
+    <Material
+        Name="Set2_barrelB_mat"
+        mapTo="Set2_barrelB">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set2_barrelB_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

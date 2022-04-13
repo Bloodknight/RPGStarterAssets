@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set2_BarrelBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set2_BarrelB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};
