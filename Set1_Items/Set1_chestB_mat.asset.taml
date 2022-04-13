@@ -1,0 +1,14 @@
+<MaterialAsset
+    AssetName="Set1_chestB_mat"
+    materialDefinitionName="Set1_chestB_mat"
+    imageMap0="@asset=RPGStarterAssets:Set1ChestB_image">
+    <Material
+        Name="Set1_chestB_mat"
+        mapTo="Set1_chestB">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseColor="1 1 1 1"
+                DiffuseMapAsset="RPGStarterAssets:Set1ChestB_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

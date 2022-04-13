@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set1_StaffB_shape"
+    fileName="@assetFile=BKS_Set1_StaffB.fbx"
+    constuctorFileName="@assetFile=BKS_Set1_StaffB.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set1_staffB_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 1/FBXs/BKS_Set1_StaffB.fbx"/>

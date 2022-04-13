@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set1_potionA_mat"
+    materialDefinitionName="Set1_potionA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set1_potionA_image">
+    <Material
+        Name="Set1_potionA_mat"
+        mapTo="Set1_potionA">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set1_potionA_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

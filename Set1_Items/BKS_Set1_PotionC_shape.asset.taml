@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set1_PotionC_shape"
+    fileName="@assetFile=BKS_Set1_PotionC.fbx"
+    constuctorFileName="@assetFile=BKS_Set1_PotionC.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set1_potionC_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 1/FBXs/BKS_Set1_PotionC.fbx"/>

@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set1_ChestBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set1_ChestB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

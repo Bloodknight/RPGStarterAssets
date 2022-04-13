@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set1_ChestB_shape"
+    fileName="@assetFile=BKS_Set1_ChestB.fbx"
+    constuctorFileName="@assetFile=BKS_Set1_ChestB.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set1_chestB_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 1/FBXs/BKS_Set1_ChestB.fbx"/>

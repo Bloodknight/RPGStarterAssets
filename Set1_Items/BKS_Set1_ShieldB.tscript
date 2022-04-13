@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set1_ShieldBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set1_ShieldB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

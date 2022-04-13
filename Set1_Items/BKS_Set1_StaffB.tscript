@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set1_StaffBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set1_StaffB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

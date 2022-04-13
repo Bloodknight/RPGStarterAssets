@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set1_HammerB_shape"
+    fileName="@assetFile=BKS_Set1_HammerB.fbx"
+    constuctorFileName="@assetFile=BKS_Set1_HammerB.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set1_hammerB_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 1/FBXs/BKS_Set1_HammerB.fbx"/>

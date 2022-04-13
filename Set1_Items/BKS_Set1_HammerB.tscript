@@ -1,0 +1,8 @@
+
+singleton TSShapeConstructor(BKS_Set1_HammerBfbx)
+{
+   baseShapeAsset = "RPGStarterAssets:BKS_Set1_HammerB_shape";
+   singleDetailSize = "0";
+   neverImportMat = "DefaultMaterial	ColorEffect*";
+   animFPS = "2";
+};

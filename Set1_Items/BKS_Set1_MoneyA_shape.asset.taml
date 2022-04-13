@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set1_MoneyA_shape"
+    fileName="@assetFile=BKS_Set1_MoneyA.fbx"
+    constuctorFileName="@assetFile=BKS_Set1_MoneyA.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set1_moneyA_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 1/FBXs/BKS_Set1_MoneyA.fbx"/>

@@ -1,0 +1,13 @@
+<MaterialAsset
+    AssetName="Set1_swordA_mat"
+    materialDefinitionName="Set1_swordA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set1_swordA_image">
+    <Material
+        Name="Set1_swordA_mat"
+        mapTo="Set1_swordA">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set1_swordA_image"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

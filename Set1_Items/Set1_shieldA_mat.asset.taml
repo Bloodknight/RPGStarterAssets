@@ -1,0 +1,15 @@
+<MaterialAsset
+    AssetName="Set1_shieldA_mat"
+    materialDefinitionName="Set1_shieldA_mat"
+    imageMap0="@asset=RPGStarterAssets:Set1_shieldA_image">
+    <Material
+        Name="Set1_shieldA_mat"
+        mapTo="Set1_shieldA">
+        <Material.Stages>
+            <Stages_beginarray
+                DiffuseMapAsset="RPGStarterAssets:Set1_shieldA_image"/>
+            <Stages_beginarray
+                DiffuseColor="1 1 1 1"/>
+        </Material.Stages>
+    </Material>
+</MaterialAsset>

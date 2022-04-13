@@ -1,0 +1,6 @@
+<ShapeAsset
+    AssetName="BKS_Set1_ShieldB_shape"
+    fileName="@assetFile=BKS_Set1_ShieldB.fbx"
+    constuctorFileName="@assetFile=BKS_Set1_ShieldB.tscript"
+    materialSlot0="@asset=RPGStarterAssets:Set1_shieldB_mat"
+    originalFilePath="T:/!RPGStarter/Working/low-poly RPG item collection 1/FBXs/BKS_Set1_ShieldB.fbx"/>
